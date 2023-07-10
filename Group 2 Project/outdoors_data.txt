@@ -1,0 +1,697 @@
+Press any key to continue...
+-- DISPLAYING Guide RECORDS --
+
+Guide ID: 1
+ First Name: John
+ Last Name: MacNell
+
+Guide ID: 2
+ First Name: D.B.
+ Last Name: Marland
+
+-- DISPLAYING Location RECORDS --
+
+Locale ID: 1
+ Location: Africa
+ Visa: 1
+ Immunization: 1
+
+Locale ID: 2
+ Location: Asia
+ Visa: 1
+ Immunization: 1
+
+Locale ID: 3
+ Location: Southern Europe
+ Visa: 1
+ Immunization: 0
+
+-- DISPLAYING Trip RECORDS --
+
+Trip ID: 1
+ Locale ID: 1
+ Guide ID: 1
+ Start Date: 2022-10-01 00:00:00
+ End Date: 2022-10-14 00:00:00
+
+Trip ID: 2
+ Locale ID: 1
+ Guide ID: 1
+ Start Date: 2023-05-01 00:00:00
+ End Date: 2023-05-14 00:00:00
+
+Trip ID: 3
+ Locale ID: 1
+ Guide ID: 1
+ Start Date: 2023-10-01 00:00:00
+ End Date: 2023-10-14 00:00:00
+
+Trip ID: 4
+ Locale ID: 2
+ Guide ID: 2
+ Start Date: 2022-10-01 00:00:00
+ End Date: 2022-10-08 00:00:00
+
+Trip ID: 5
+ Locale ID: 2
+ Guide ID: 2
+ Start Date: 2023-01-01 00:00:00
+ End Date: 2023-01-08 00:00:00
+
+Trip ID: 6
+ Locale ID: 2
+ Guide ID: 2
+ Start Date: 2023-09-01 00:00:00
+ End Date: 2023-09-08 00:00:00
+
+Trip ID: 7
+ Locale ID: 2
+ Guide ID: 2
+ Start Date: 2023-10-01 00:00:00
+ End Date: 2023-10-08 00:00:00
+
+Trip ID: 8
+ Locale ID: 3
+ Guide ID: 1
+ Start Date: 2022-10-20 00:00:00
+ End Date: 2022-10-27 00:00:00
+
+Trip ID: 9
+ Locale ID: 3
+ Guide ID: 2
+ Start Date: 2023-09-20 00:00:00
+ End Date: 2023-10-27 00:00:00
+
+-- DISPLAYING Booking RECORDS --
+
+Booking ID: 1
+ Trip ID: 1
+ Client ID: 1
+ Airfare: 1000
+
+Booking ID: 2
+ Trip ID: 1
+ Client ID: 2
+ Airfare: 2000
+
+Booking ID: 3
+ Trip ID: 1
+ Client ID: 3
+ Airfare: 1000
+
+Booking ID: 4
+ Trip ID: 1
+ Client ID: 4
+ Airfare: 3000
+
+Booking ID: 5
+ Trip ID: 1
+ Client ID: 5
+ Airfare: 1000
+
+Booking ID: 6
+ Trip ID: 2
+ Client ID: 6
+ Airfare: 2000
+
+Booking ID: 7
+ Trip ID: 2
+ Client ID: 7
+ Airfare: 1200
+
+Booking ID: 8
+ Trip ID: 2
+ Client ID: 8
+ Airfare: 1200
+
+Booking ID: 9
+ Trip ID: 2
+ Client ID: 9
+ Airfare: 1200
+
+Booking ID: 10
+ Trip ID: 2
+ Client ID: 10
+ Airfare: 1000
+
+Booking ID: 11
+ Trip ID: 3
+ Client ID: 11
+ Airfare: 2000
+
+Booking ID: 12
+ Trip ID: 3
+ Client ID: 12
+ Airfare: 3000
+
+Booking ID: 13
+ Trip ID: 3
+ Client ID: 13
+ Airfare: 1000
+
+Booking ID: 14
+ Trip ID: 3
+ Client ID: 14
+ Airfare: 3000
+
+Booking ID: 15
+ Trip ID: 4
+ Client ID: 15
+ Airfare: 1000
+
+Booking ID: 16
+ Trip ID: 4
+ Client ID: 16
+ Airfare: 1000
+
+Booking ID: 17
+ Trip ID: 4
+ Client ID: 17
+ Airfare: 2000
+
+Booking ID: 18
+ Trip ID: 4
+ Client ID: 18
+ Airfare: 1000
+
+Booking ID: 19
+ Trip ID: 5
+ Client ID: 19
+ Airfare: 2000
+
+Booking ID: 20
+ Trip ID: 5
+ Client ID: 20
+ Airfare: 1000
+
+Booking ID: 21
+ Trip ID: 5
+ Client ID: 21
+ Airfare: 3000
+
+Booking ID: 22
+ Trip ID: 5
+ Client ID: 22
+ Airfare: 1000
+
+Booking ID: 23
+ Trip ID: 5
+ Client ID: 23
+ Airfare: 1000
+
+Booking ID: 24
+ Trip ID: 6
+ Client ID: 24
+ Airfare: 2000
+
+Booking ID: 25
+ Trip ID: 6
+ Client ID: 25
+ Airfare: 1000
+
+Booking ID: 26
+ Trip ID: 6
+ Client ID: 26
+ Airfare: 1000
+
+Booking ID: 27
+ Trip ID: 6
+ Client ID: 27
+ Airfare: 4000
+
+Booking ID: 28
+ Trip ID: 6
+ Client ID: 28
+ Airfare: 2000
+
+Booking ID: 29
+ Trip ID: 7
+ Client ID: 29
+ Airfare: 1000
+
+Booking ID: 30
+ Trip ID: 7
+ Client ID: 30
+ Airfare: 1000
+
+Booking ID: 31
+ Trip ID: 7
+ Client ID: 31
+ Airfare: 4000
+
+Booking ID: 32
+ Trip ID: 7
+ Client ID: 32
+ Airfare: 1000
+
+Booking ID: 33
+ Trip ID: 8
+ Client ID: 33
+ Airfare: 1000
+
+Booking ID: 34
+ Trip ID: 8
+ Client ID: 34
+ Airfare: 1000
+
+Booking ID: 35
+ Trip ID: 9
+ Client ID: 35
+ Airfare: 4000
+
+Booking ID: 36
+ Trip ID: 9
+ Client ID: 36
+ Airfare: 1000
+
+-- DISPLAYING Client RECORDS --
+
+Client ID: 1
+ First Name: Fallon
+ Last Name: Hutchinson
+ Email: FHutchinson@gmail.com
+
+Client ID: 2
+ First Name: Korbin
+ Last Name: Miller
+ Email: KMiller@gmail.com
+
+Client ID: 3
+ First Name: Isabella
+ Last Name: Thomas
+ Email: IThomas@gmail.com
+
+Client ID: 4
+ First Name: Logan
+ Last Name: Butler
+ Email: LButler@gmail.com
+
+Client ID: 5
+ First Name: Athena
+ Last Name: Pacheco
+ Email: APacheco@gmail.com
+
+Client ID: 6
+ First Name: Erik
+ Last Name: Freeman
+ Email: EFreeman@gmail.com
+
+Client ID: 7
+ First Name: Norah
+ Last Name: Evans
+ Email: NEvans@gmail.com
+
+Client ID: 8
+ First Name: Elias
+ Last Name: Pace
+ Email: EPace@gmail.com
+
+Client ID: 9
+ First Name: Giana
+ Last Name: Chavez
+ Email: GChavez@gmail.com
+
+Client ID: 10
+ First Name: Ian
+ Last Name: Young
+ Email: IYoung@gmail.com
+
+Client ID: 11
+ First Name: Zoey
+ Last Name: Nixon
+ Email: ZNixon@gmail.com
+
+Client ID: 12
+ First Name: Cory
+ Last Name: Kline
+ Email: CKline@gmail.com
+
+Client ID: 13
+ First Name: Sevyn
+ Last Name: Gonzalez
+ Email: SGonzalez@gmail.com
+
+Client ID: 14
+ First Name: Ethan
+ Last Name: Dyer
+ Email: EDyer@gmail.com
+
+Client ID: 15
+ First Name: Estrella
+ Last Name: Hood
+ Email: EHood@gmail.com
+
+Client ID: 16
+ First Name: Brixton
+ Last Name: Bernard
+ Email: BBernard@gmail.com
+
+Client ID: 17
+ First Name: Barbara
+ Last Name: Hanson
+ Email: BHanson@gmail.com
+
+Client ID: 18
+ First Name: Khalil
+ Last Name: Curry
+ Email: KCurry@gmail.com
+
+Client ID: 19
+ First Name: Alison
+ Last Name: Wallace
+ Email: AWallace@gmail.com
+
+Client ID: 20
+ First Name: Chase
+ Last Name: Dorsey
+ Email: CDorsey@gmail.com
+
+Client ID: 21
+ First Name: Addyson
+ Last Name: Keller
+ Email: AKeller@gmail.com
+
+Client ID: 22
+ First Name: Nico
+ Last Name: Ibarra
+ Email: NIbarra@gmail.com
+
+Client ID: 23
+ First Name: Madilynn
+ Last Name: Galindo
+ Email: MGalindo@gmail.com
+
+Client ID: 24
+ First Name: Salvatore
+ Last Name: Taylor
+ Email: STaylor@gmail.com
+
+Client ID: 25
+ First Name: Sofia
+ Last Name: Franklin
+ Email: SFranklin@gmail.com
+
+Client ID: 26
+ First Name: Simon
+ Last Name: Portillo
+ Email: SPortillo@gmail.com
+
+Client ID: 27
+ First Name: Nathalie
+ Last Name: Soto
+ Email: NSoto@gmail.com
+
+Client ID: 28
+ First Name: Barrett
+ Last Name: Barajas
+ Email: BBarajas@gmail.com
+
+Client ID: 29
+ First Name: Keilani
+ Last Name: Salgado
+ Email: KSalgado@gmail.com
+
+Client ID: 30
+ First Name: Trace
+ Last Name: Turner
+ Email: TTurner@gmail.com
+
+Client ID: 31
+ First Name: Brooklyn
+ Last Name: Cox
+ Email: BCox@gmail.com
+
+Client ID: 32
+ First Name: Connor
+ Last Name: Hendricks
+ Email: CHendricks@gmail.com
+
+Client ID: 33
+ First Name: Dani
+ Last Name: McClain
+ Email: DMcClain@gmail.com
+
+Client ID: 34
+ First Name: Mitchell
+ Last Name: Moran
+ Email: MMoran@gmail.com
+
+Client ID: 35
+ First Name: Celeste
+ Last Name: Brewer
+ Email: CBrewer@gmail.com
+
+Client ID: 36
+ First Name: Cruz
+ Last Name: Sawyer
+ Email: CSawyer@gmail.com
+
+Client ID: 37
+ First Name: Marina
+ Last Name: Wilson
+ Email: MWilson@gmail.com
+
+Client ID: 38
+ First Name: Daniel
+ Last Name: Boone
+ Email: DBoone@gmail.com
+
+Client ID: 39
+ First Name: Mariam
+ Last Name: Huff
+ Email: MHuff@gmail.com
+
+Client ID: 40
+ First Name: Finnley
+ Last Name: Davidson
+ Email: FDavidson@gmail.com
+
+Client ID: 41
+ First Name: Jayla
+ Last Name: Horne
+ Email: JHorne@gmail.com
+
+Client ID: 42
+ First Name: Zev
+ Last Name: Marsh
+ Email: ZMarsh@gmail.com
+
+-- DISPLAYING Rental RECORDS --
+
+Rental ID: 1
+ Equipment: 1
+ Rental Start: 2023-01-01 00:00:00
+ client ID: 2023-01-31 00:00:00
+
+Rental ID: 2
+ Equipment: 3
+ Rental Start: 2023-02-01 00:00:00
+ client ID: 2023-02-28 00:00:00
+
+Rental ID: 3
+ Equipment: 4
+ Rental Start: 2023-03-01 00:00:00
+ client ID: 2023-03-31 00:00:00
+
+Rental ID: 4
+ Equipment: 5
+ Rental Start: 2023-04-01 00:00:00
+ client ID: 2023-04-30 00:00:00
+
+Rental ID: 5
+ Equipment: 6
+ Rental Start: 2023-05-01 00:00:00
+ client ID: 2023-05-31 00:00:00
+
+Rental ID: 6
+ Equipment: 7
+ Rental Start: 2023-06-01 00:00:00
+ client ID: 2023-06-30 00:00:00
+
+Rental ID: 7
+ Equipment: 8
+ Rental Start: 2023-07-01 00:00:00
+ client ID: 2023-07-31 00:00:00
+
+Rental ID: 8
+ Equipment: 9
+ Rental Start: 2023-08-01 00:00:00
+ client ID: 2023-08-31 00:00:00
+
+Rental ID: 9
+ Equipment: 11
+ Rental Start: 2023-07-01 00:00:00
+ client ID: 2023-07-31 00:00:00
+
+Rental ID: 10
+ Equipment: 12
+ Rental Start: 2023-06-01 00:00:00
+ client ID: 2023-06-30 00:00:00
+
+Rental ID: 11
+ Equipment: 13
+ Rental Start: 2023-05-01 00:00:00
+ client ID: 2023-05-31 00:00:00
+
+Rental ID: 12
+ Equipment: 14
+ Rental Start: 2023-04-01 00:00:00
+ client ID: 2023-04-30 00:00:00
+
+Rental ID: 13
+ Equipment: 15
+ Rental Start: 2023-03-01 00:00:00
+ client ID: 2023-03-28 00:00:00
+
+Rental ID: 14
+ Equipment: 16
+ Rental Start: 2023-02-01 00:00:00
+ client ID: 2023-02-28 00:00:00
+
+Rental ID: 15
+ Equipment: 17
+ Rental Start: 2023-01-01 00:00:00
+ client ID: 2023-01-17 00:00:00
+
+-- DISPLAYING Equipment RECORDS --
+
+Equipment ID: 1
+ Description: Two person tent #1
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 2
+ Description: Two person tent #2
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 1
+ Purchase Date: 2020-01-13 00:00:00
+
+Equipment ID: 3
+ Description: Two person tent #3
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 4
+ Description: Four person tent #1
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 5
+ Description: Four person tent #2
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 6
+ Description: Eight person tent #1
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 7
+ Description: Light Sleeping Bag #1
+ Inventory Date: 2020-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 8
+ Description: Light Sleeping Bag #2
+ Inventory Date: 2020-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 9
+ Description: Medium Sleeping Bag #1
+ Inventory Date: 2020-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 10
+ Description: Medium Sleeping Bag #2
+ Inventory Date: 2020-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 11
+ Description: Medium Sleeping Bag #3
+ Inventory Date: 2020-01-01 00:00:00
+ Purchase Flag: 1
+ Purchase Date: 2022-06-13 00:00:00
+
+Equipment ID: 12
+ Description: Hiking pole #1
+ Inventory Date: 2021-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 13
+ Description: Hiking Pole #2
+ Inventory Date: 2021-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 14
+ Description: 10X50 Binoculars #1
+ Inventory Date: 2016-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 15
+ Description: 10X50 Binoculars #2
+ Inventory Date: 2016-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 16
+ Description: Camping Stove #1
+ Inventory Date: 2017-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 17
+ Description: Camping Stove #2
+ Inventory Date: 2017-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 18
+ Description: Propane Lantern #1
+ Inventory Date: 2018-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 19
+ Description: Propane Lantern #2
+ Inventory Date: 2018-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 20
+ Description: LED Lantern #1
+ Inventory Date: 2019-01-01 00:00:00
+ Purchase Flag: 1
+ Purchase Date: 2023-01-15 00:00:00
+
+Equipment ID: 21
+ Description: LED Lantern #2
+ Inventory Date: 2023-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 22
+ Description: Flashlight #1
+ Inventory Date: 2023-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+Equipment ID: 23
+ Description: Flashlight #2
+ Inventory Date: 2023-01-01 00:00:00
+ Purchase Flag: 0
+ Purchase Date: None
+
+
+C:\Users\darge\OneDrive\Documents\6. Software Development\CSD 310 Database Development and Use\Group 2 Project>
