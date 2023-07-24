@@ -1,0 +1,12 @@
+NoSQL Data Structure:
+{
+	"user_name": "Omega",
+	"birthdate": "12/23/95",
+	"roles": "Admin", "Billing",
+	"dependents": [
+	{
+	"first_name": "Jessica",
+	"last_name": "Ceasar"
+	},
+	]
+}
